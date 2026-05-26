@@ -16,7 +16,7 @@ The repository serves as a documentation of:
 
 ## Repository Contents
 
-- `report.md`  
+- `REPORTS.md`  
   Contains chronological daily reports and activity logs.
 
 ## Areas Explored
